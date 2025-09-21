@@ -128,7 +128,10 @@ python env_check.py
 Paste your terminal output here:
 
 ```
-<Run Output: paste the lines printed by env_check.py>
+Name: Roaya Elhassani
+Python: 3.9.6
+NumPy: 2.0.2
+Goal: My goal is to become a better programmer. 
 ```
 
 ---
